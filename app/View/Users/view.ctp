@@ -1,0 +1,1 @@
+<?php echo ('Hello!!'.$user['User']['username']); ?>
